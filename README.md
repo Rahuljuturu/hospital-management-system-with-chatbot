@@ -1,7 +1,7 @@
 # hospital-management-system-with-chatbot<img width="587" alt="Screenshot 2025-02-26 at 10 29 11 AM" src="https://github.com/user-attachments/assets/ef6cb0c3-e76c-4bce-948d-71e152ad3663" />
 
 
-# **Hospital Management System with AI-Powered Chatbot**  
+
 
 ## **Project Overview**  
 The **Hospital Management System with Chatbot** is an AI-powered healthcare solution designed to streamline hospital operations, improve patient engagement, and automate appointment scheduling. The chatbot assists patients in identifying symptoms, suggesting available doctors, and guiding them through the booking process.  
